@@ -1,4 +1,4 @@
-# NEXT.js + GraphQL weather app
+# NEXT.js + Tailwind + GraphQL weather app
 ![alt text](<Снимок экрана 2024-04-15 134919.png>)
 
 ### `npm start`
